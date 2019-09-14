@@ -1,3 +1,4 @@
-[submodule "website"]
-	path = website
+[submodule "public"]
+	path = public
 	url = git@github.com:pandorascloud/website.git
+	branch = master
